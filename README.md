@@ -14,6 +14,7 @@
 <summary>
 <i>Java</i>
 </summary>
+    <ul><li><a href="https://github.com/Yukiisama/Kaban"> Kaban: Projet conduite de projet type Jira</a></li></ul>
     <ul><li><a href="https://github.com/Yukiisama/Paint-And-Design-Patterns">Paint Application and Design Pattern training</a></li></ul>
     <ul><li><a href="https://github.com/Yukiisama/Projet_poo">Planet Conquest : Programmation objet</a></li></ul>
     <ul><li><a href="https://github.com/Yukiisama/Projet_poo">Compilateur Lea</a></li></ul>
