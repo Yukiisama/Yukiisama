@@ -116,7 +116,7 @@
 </details>
 
 <img align="Left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yukiisama&show_icons=true&count_private=true" />
-<img align="Left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiisama&layout=compact&count_private=true" />
+<img align="Left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiisama&layout=compact&count_private=true&langs_count=10" />
 
 <!--
 **Yukiisama/Yukiisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
